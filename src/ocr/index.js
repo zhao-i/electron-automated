@@ -1,5 +1,5 @@
 'use strict'
-//test
+
 import { createWorker } from 'tesseract.js'
 import robot from 'robotjs'
 import jimp from 'jimp'
